@@ -1,4 +1,4 @@
-## Hibernate 5 with Spring
+## Hibernate 5 with Spring poc
 
 This module contains articles about Hibernate 5 with Spring.
 
